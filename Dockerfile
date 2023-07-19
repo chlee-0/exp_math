@@ -7,4 +7,4 @@ RUN apk update && apk add wget \
 
 WORKDIR /home
 
-CMD ["gp"]
+#CMD ["gp"]
