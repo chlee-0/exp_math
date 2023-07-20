@@ -5,8 +5,6 @@
 
 This repository provides a Docker environment for studying the book on experimental mathematics by Villegas using PARI/GP.
 
-The Docker image is based on the [pascalmolin/parigp-small](https://hub.docker.com/r/pascalmolin/parigp-small) image.
-
 The `gp-book.gp` script used in this environment is provided by [Villegas](http://users.ictp.it/~villegas/cnt/gp-book.gp).
 
 ## Getting Started
