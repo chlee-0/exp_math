@@ -1,0 +1,4 @@
+# binder
+# Specify the files or directories to include in the Binder environment
+include:
+  - path: basic_commands.ipynb
