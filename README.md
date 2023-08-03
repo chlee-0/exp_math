@@ -17,3 +17,4 @@ The `gp-book.gp` script used in this environment is provided by [Villegas](http:
     ```
     \r gp-book.gp
     ```
+- For some unknown reason to me, if you encounter any issues while executing \r gp-book.gp, you can try starting with a simple computation like 1+1 before loading the above script. This may help to ensure the PARI/GP session is initialized correctly.
